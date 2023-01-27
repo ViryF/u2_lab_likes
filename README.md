@@ -31,7 +31,3 @@ Create a new component called **Likes** in the `src` directory and add functiona
 - Once you have the `totalLikes` displaying on the page, move just the display paragraph into its own component called **LikeTotal** and have the Likes component you built render it (hint: use props to pass the value of `totalLikes` to your new LikeTotal component).
 - Make another commit with a message that reads "Add decrement button".
 - Make it so that the `totalLikes` can never display a value less than `0`.
-
-## Submission Guidelines
-
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-1-9/template_pull_request)
